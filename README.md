@@ -29,3 +29,7 @@ Based in Uppsala, Sweden. Working remotely with clients worldwide since 2019.
 - **Email:** [bensums@gmail.com](mailto:bensums@gmail.com)
 - **LinkedIn:** [ben-summers-b84b9757](https://www.linkedin.com/in/ben-summers-b84b9757/)
 - **GitHub:** [bensums](https://github.com/bensums)
+
+---
+
+[![Toptal](https://img.shields.io/badge/Toptal-Top_3%25_Talent-3863A0?style=for-the-badge&logo=toptal&logoColor=white)](https://www.toptal.com/developers/resume/ben-summers#NYoRxA)
