@@ -1,4 +1,3 @@
-
 Data scientist and ML engineer with a PhD in pure mathematics. I help companies build reliable data pipelines, deploy ML models that work in production, and make sense of messy data.
 
 Based in Uppsala, Sweden. Working remotely with customers worldwide since 2019.
