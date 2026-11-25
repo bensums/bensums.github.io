@@ -8,7 +8,7 @@ Based in Uppsala, Sweden. Working remotely with clients worldwide since 2019.
 
 ### Projects
 
-**[TendonTime](https://www.bensums.com/tendontime/)** — Timer app for tendon rehabilitation using evidence-based isometric loading protocols. [Android app coming soon]
+**[TendonTime](https://www.bensums.com/tendontime/)** — Timer app for tendon rehabilitation using evidence-based isometric loading protocols. [Android app](https://play.google.com/store/apps/details?id=com.bensums.tendontime)
 
 **[Custom Connectors](https://www.customconnectors.io)** — Building custom Fivetran connectors for data sources they don't support natively.
 
