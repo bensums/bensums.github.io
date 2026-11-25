@@ -1,4 +1,20 @@
-theme: jekyll-theme-cayman
+title: Ben Summers
+author: Ben Summers
+email: bensums@gmail.com
+description: Data scientist and ML engineer. Uppsala, Sweden.
+theme: minima
 google_analytics: G-R5KNFEVENT
+
+github_username: bensums
+linkedin_username: ben-summers-b84b9757
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# don't turn the README's first heading into a page title / nav link
+titles_from_headings:
+  enabled: false
+
 exclude:
   - AGENTS.md
